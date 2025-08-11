@@ -1,6 +1,6 @@
-# SFML C++ MacOS Example
+# SFML C++ Ball Simulation
 
-A very simple example of how to use SFML in VSCode on MacOS
+A very simple free fall of a ball
 
 # Prerequisites
 
@@ -16,8 +16,6 @@ First, clone this repo
 ```
 git clone https://github.com/beatzoid/sfml-macos
 ```
-
-Or you can click the green `Use this template` to automagically make a new repo under your account with all the files ([example](https://github.com/Beatzoid/sfml-template-test)) and then clone that.
 
 <br />
 
@@ -40,6 +38,10 @@ First, you need to edit the `Makefile` and change the `SFML_PATH` variable to th
 
 Then, press `Cmd+Shift+B` in VSCode to build and `FN+F5` to run. If it works, you should see a window with a black background and cyan circle. Once you exit the program, you should also see the number "5" in the terminal. Congrats, you can now make whatever you want with SFML!
 
-# Credit
+<br>
 
-[This](https://stackoverflow.com/a/73402250/10626998) StackOverflow answer
+Then Just tyee `make` to build the project or `make clean` to clean build, then launche the program with `./main` in here : `/bin/main`.
+
+# Contact
+
+Email : nawabsn911@gmail.com
