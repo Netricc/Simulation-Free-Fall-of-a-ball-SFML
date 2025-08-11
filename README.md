@@ -14,7 +14,7 @@ A very simple free fall of a ball
 First, clone this repo
 
 ```
-git clone https://github.com/beatzoid/sfml-macos
+git clone https://github.com/Netricc/Simulation-Free-Fall-of-a-ball-SFML
 ```
 
 <br />
